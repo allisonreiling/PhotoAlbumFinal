@@ -1,2 +1,0 @@
-PUT API key: nl8fg2lBasNKREgaePba8Ljgj0NJKyv8DMc9Kmzh
-GET API key: NRr7q3hGfL8gumHcebWe23UgXXDA5xAb84zohOHy
